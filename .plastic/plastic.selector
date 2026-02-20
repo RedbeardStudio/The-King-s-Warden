@@ -1,0 +1,4 @@
+repository "hunter_3d@REDBEARDgames@cloud"
+  path "/"
+    br "/main"
+    co "/main"

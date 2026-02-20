@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b20fdd1df00c164b86231fa6457322a, type: 3}
+  m_Name: RaspberryPlantData
+  m_EditorClassIdentifier: 
+  _plantClass: 1
+  _name: Raspberry
+  _scientificName: Rubus idaeus
+  _baseEdibility: 0.331
+  _toxicity: 0
+  _hardness: 0.697
+  _nutritionValue: 100
+  fruitType: {fileID: 11400000, guid: 7b5919e6658dfa04a857dccdd1eb5f2a, type: 2}
+  _canProduceEdibleFruits: 1
+  _maxFruitCapacity: 30

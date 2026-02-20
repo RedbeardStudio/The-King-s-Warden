@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d07cf7e306e76f40b26e5b942a68414, type: 3}
+  m_Name: Sheep_SO
+  m_EditorClassIdentifier: 
+  speciesName: 5
+  information: Woolly herbivore - minding it's own bushness.
+  age_in_years: 4
+  maxLifespan: 25
+  isJuvenile: 0
+  weightInKgs: 49
+  healthPoints: 30
+  isDomesticated: 0
+  isSick: 0
+  sizeCategory: 2
+  frontExtent: 1.35
+  experience: 10
+  money: 10
+  threatlevel: 0
+  isQuestTarget: 1
+  isTameable: 1
+  trophyScore: 0
+  taggingID: 
+  lookingForFoodRadius: 15
+  feedingCooldown: 1
+  generalFoodRequirementAmount: 1000
+  amountFoodEaten: 0
+  hungerThresholdPercent: 30
+  satiationThresholdPercent: 85
+  isScavenger: 0
+  isPredator: 0
+  ambushTendency: 0
+  isPackHunting: 0
+  isFoodSharing: 0
+  reproductiveSeasonStart: 0
+  reproductiveSeasonEnd: 0
+  gestationTime: 0
+  offspringCountRange: {x: 2, y: 5}
+  matingAggression: 0
+  canMate: 1
+  parentalCareDuration: 0
+  requiresMateCall: 0
+  isPolygamous: 0
+  isSocial: 1
+  herdType: 3
+  cohesionFactor: 0.5
+  separationDistance: 50
+  herdAlignmentFactor: 0.1
+  followAlpha: 0
+  isAlpha: 0
+  seasonalGrouping: 0
+  preferredGroupSize: {x: 100, y: 250}
+  groupCommunicationRange: 60
+  groupDefenseTriggerRadius: 0
+  aggressionLevel: 0
+  territorailRange: 0
+  attackCooldown: 0
+  willAttackHumans: 0
+  alphaAggressionModifier: 0
+  warningSignalDuration: 0
+  willDefendOffspring: 0
+  aggressionDecayRate: 0
+  targetPriority: 
+  locomotionType: 0
+  maxSpeed: 5
+  acceleration: 3
+  turnSpeed: 1
+  jumpHeight: 1
+  stamina: 50
+  preferredTerrain:
+  - Grass
+  canClimb: 0
+  canSwim: 0
+  flyingAltitudeRange: {x: 0, y: 0}
+  fearThreshold: 0.45
+  fleeSpeedMultiplier: 1.5
+  canHide: 0
+  hideSpotSearchRadius: 0
+  dangerMemoryTime: 0
+  escapePattern: 2
+  threatDetectionRange: 30
+  startleChance: 0.57
+  willFleeInGroupSync: 0
+  freezeChance: 0

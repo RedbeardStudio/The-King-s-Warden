@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d07cf7e306e76f40b26e5b942a68414, type: 3}
+  m_Name: Fox
+  m_EditorClassIdentifier: 
+  speciesName: 1
+  information: 
+  age_in_years: 3
+  maxLifespan: 10
+  isJuvenile: 0
+  weightInKgs: 15
+  healthPoints: 50
+  isDomesticated: 0
+  isSick: 0
+  sizeCategory: 1
+  experience: 150
+  money: 0
+  threatlevel: 1
+  isQuestTarget: 0
+  isTameable: 0
+  trophyScore: 10
+  lootTable: []
+  taggingID: 
+  foodType: 1
+  lookingForFoodRadius: 0
+  feedingCooldown: 5
+  hungerThreshold: 1
+  isScavenger: 0
+  isPredator: 0
+  ambushTendency: 0
+  isPackHunting: 0
+  isFoodSharing: 0
+  reproductiveSeasonStart: 0
+  reproductiveSeasonEnd: 0
+  gestationTime: 0
+  offspringCountRange: {x: 0, y: 0}
+  matingAggression: 0
+  canMate: 0
+  parentalCareDuration: 0
+  requiresMateCall: 0
+  isPolygamous: 0
+  isSocial: 0
+  herdType: 0
+  cohesionFactor: 0
+  separationDistance: 0
+  herdAlignmentFactor: 0
+  followAlpha: 0
+  isAlpha: 0
+  seasonalGrouping: 0
+  preferredGroupSize: {x: 0, y: 0}
+  groupCommunicationRange: 0
+  groupDefenseTriggerRadius: 0
+  aggressionLevel: 0
+  territorailRange: 0
+  attackCooldown: 0
+  willAttackHumans: 0
+  alphaAggressionModifier: 0
+  warningSignalDuration: 0
+  willDefendOffspring: 0
+  aggressionDecayRate: 0
+  targetPriority: 0000000005000000
+  locomotionType: 0
+  maxSpeed: 0
+  acceleration: 0
+  turnSpeed: 0
+  jumpHeight: 0
+  stamina: 0
+  preferredTerrain: []
+  canClimb: 0
+  canSwim: 0
+  flyingAltitudeRange: {x: 0, y: 0}
+  fearThreshold: 0
+  fleeSpeedMultiplier: 0
+  canHide: 0
+  hideSpotSearchRadius: 0
+  dangerMemoryTime: 0
+  escapePattern: 0
+  threatDetectionRange: 0
+  startleChance: 0
+  willFleeInGroupSync: 0
+  freezeChance: 0
